@@ -15,7 +15,7 @@ categories: ["book", "review"]
 
 <figure>
 
-![](/assets/img/nightmare_alley-681x1024.jpg)
+![번역본 표지](/assets/img/nightmare_alley-681x1024.jpg)
 
 <figcaption>
 
