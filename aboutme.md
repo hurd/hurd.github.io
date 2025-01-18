@@ -1,14 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Call me Hurd, just Hurd.
 ---
 
-My name is Charlie Choe. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
+I have worked as a Unix system developer at IT companies for a long time. 
+My main programming languages are C, C++, and Python, 
+and I am also interested in Objective-C and Swift. 
+I prefer emacs over vi. 
+My name is Charlie Choe, but if you’d like to be my friend, 
+please call me Hurd, just Hurd. 
