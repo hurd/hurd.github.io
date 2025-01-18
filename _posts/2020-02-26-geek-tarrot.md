@@ -2,7 +2,7 @@
 layout: post
 title: Geek, Tarrot
 date: "2022-03-06"
-subtitle: 
+subtitle: 알록달록한 광대 옷차림으로 세상 끝 낭떠러지 위에서 눈을 감고 걷는 자
 cover-img: 
 thumbnail-img: 
 share-img: 
