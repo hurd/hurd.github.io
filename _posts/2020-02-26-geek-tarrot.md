@@ -13,17 +13,7 @@ categories: ["book", "review"]
 
 [기예르모 델 토로](https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%98%88%EB%A5%B4%EB%AA%A8_%EB%8D%B8_%ED%86%A0%EB%A1%9C)의 팬이자 호러필름 덕후로서, 새로 나온 영화 <[Nightmare Alley](https://www.imdb.com/title/tt7740496/)\>를 보기 전에 원작을 먼저 읽어 보기로 마음 먹었다. 구글플레이에서 이북으로 [구입](https://play.google.com/store/books/details/%EC%9C%8C%EB%A6%AC%EC%97%84_%EB%A6%B0%EC%A7%80_%EA%B7%B8%EB%A0%88%EC%85%A4_%EB%82%98%EC%9D%B4%ED%8A%B8%EB%A9%94%EC%96%B4_%EC%95%A8%EB%A6%AC?id=uigqEAAAQBAJ)했다. 구글에서 구입하면 별도의 앱을 설치하지 않더라도 브라우저에서 바로 읽을 수 있어서 좋다. 파이어폭스에서도 문제없이 동작한다.
 
-<figure>
-
-![번역본 표지](/assets/img/nightmare_alley-681x1024.jpg)
-
-<figcaption>
-
-번역본 표지 (그림: 이윤미, 디자인: 이승욱)
-
-</figcaption>
-
-</figure>
+![번역본 표지 (그림: 이윤미, 디자인: 이승욱)](/assets/img/nightmare_alley-681x1024.jpg)
 
 [윌리엄 린지 그레셤](https://en.wikipedia.org/wiki/William_Lindsay_Gresham)의 책은 처음 접한다. 예상대로 술술 읽혔다. 중간에 두어 번 끊고 반나절 만에 끝을 봤으니. 책의 서문은 동료 하드보일드 작가였던 [닉 토시즈](https://en.wikipedia.org/wiki/Nick_Tosches)가 썼는데, 소개글들이 종종 그러하듯이 작품의 내용을 직간접적으로 누설하고 있을까봐 과감하게 건너 뛰고 진행했다.
 
