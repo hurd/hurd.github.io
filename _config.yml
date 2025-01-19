@@ -240,6 +240,7 @@ giscus:
   reactions-enabled: 1
   emit-metadata: 0
   theme: light
+  lang: ko
 
 ################
 # --- Misc --- #
