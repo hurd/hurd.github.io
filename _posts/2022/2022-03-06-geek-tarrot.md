@@ -6,6 +6,10 @@ subtitle: 알록달록한 광대 옷차림으로 세상 끝 낭떠러지 위에�
 cover-img: 
 thumbnail-img: 
 share-img: 
+gh-repo:
+gh-badge:
+comments: true
+mathjax: true
 tags: ["nightmare-alley","tarrot","나이트메어-앨리","독서","윌리엄-린지-그레셤","책","타로","펄프픽션"]
 author: Hurd
 categories: ["book", "review"]

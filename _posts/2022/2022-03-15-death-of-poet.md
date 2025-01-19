@@ -10,6 +10,7 @@ cover-img:
 share-img: 
 thumbnail-img:
 date: "2022-03-15"
+author: Hurd
 categories: 
   - "etc"
   - "press"

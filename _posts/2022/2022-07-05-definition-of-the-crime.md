@@ -6,10 +6,11 @@ gh-repo:
 gh-badge:
 comments: true
 mathjax: true
-cover-img:
-share-img: 
+cover-img: /assets/img/fishermen-at-sea.jpg
+share-img: /assets/img/fishermen-at-sea.jpg
 thumbnail-img: 
 date: "2022-07-05"
+author: Hurd
 categories: 
   - "book"
   - "quote"

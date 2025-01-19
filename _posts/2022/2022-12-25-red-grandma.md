@@ -6,8 +6,8 @@ gh-repo:
 gh-badge:
 comments: true
 mathjax: true
-cover-img:
-share-img: 
+cover-img: /assets/img/fishermen-at-sea.jpg
+share-img: /assets/img/fishermen-at-sea.jpg
 thumbnail-img: 
 author: Hurd
 date: "2022-12-25"

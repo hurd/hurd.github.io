@@ -6,10 +6,11 @@ gh-repo:
 gh-badge:
 comments: true
 mathjax: true
-cover-img:
+cover-img: /assets/img/fishermen-at-sea.jpg
 share-img: /assets/img/Joseph_Mallord_William_Turner_-_Snow_Storm_-_Steam-Boat_off_a_Harbours_Mouth_-_WGA23178.jpg
 thumbnail-img:
 date: "2022-03-20"
+author: Hurd
 categories: 
   - "art"
   - "book"
