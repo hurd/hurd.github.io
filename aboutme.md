@@ -4,7 +4,7 @@ title: About me
 subtitle: Hurd, just Hurd.
 ---
 
-<div style="text-align: center">
-  ![토미](/assets/img/tommy.jpg)
-  ![어굴](/assets/img/ugool.jpg)
-</div>
+<p style="text-align: center">
+  <img src="/assets/img/tommy.jpg" alt="토미">
+  <img src="/assets/img/ugool.jpg" alt="어굴">
+</p>
