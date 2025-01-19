@@ -14,7 +14,7 @@ author: Hurd
 categories: 
   - "book"
 tags: 
-  - "디디에-에리봉"
+  - "디디에 에리봉"
   - "르네-샤르"
   - "미셸-푸코"
   - "시"
