@@ -8,7 +8,7 @@ comments: true
 mathjax: true
 cover-img: /assets/img/fishermen-at-sea.jpg
 share-img: /assets/img/fishermen-at-sea.jpg
-thumbnail-img: 
+thumbnail-img: ""
 date: "2022-07-05"
 author: Hurd
 categories: 

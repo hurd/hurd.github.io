@@ -6,9 +6,9 @@ gh-repo:
 gh-badge:
 comments: true
 mathjax: true
-cover-img:
+cover-img: /assets/img/fishermen-at-sea.jpg
 share-img: 
-thumbnail-img:
+thumbnail-img: ""
 date: "2022-03-15"
 author: Hurd
 categories: 
